@@ -5,6 +5,7 @@
            review="review.source.android.com" />
   <default revision="gingerbread"
            remote="korg" />
+  <remote name="gh" fetch="git://github.com/" />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -19,6 +20,11 @@
   <project path="device/common" name="device/common" />
   <project path="device/htc/common" name="device/htc/common" />
   <project path="device/htc/passion" name="device/htc/passion" />
+
+  <!--Dream Sapphire-->
+  <project path="device/htc/dream_sapphire" name="ezerry/GB-device_htc_dream-sapphire" remote="gh" revision="gingerbread" />
+  <project path="device/htc/sapphire" name="ezterry/GB-device_htc_sapphire" remote="gh" revision="gingerbread" />
+
   <project path="device/htc/passion-common" name="device/htc/passion-common" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/crespo" name="device/samsung/crespo" />
