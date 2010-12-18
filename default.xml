@@ -7,7 +7,7 @@
            remote="korg" />
   <remote name="gh" fetch="git://github.com/" />
 
-  <project path="build" name="platform/build">
+  <project path="build" name="ezterry/GB-build" remote="gh" revision="gingerbread" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="platform/bionic" />
