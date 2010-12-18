@@ -15,7 +15,7 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
-  <project path="development" name="platform/development" revision="14789d1eab905728da4f6995816c80716caf52f4"/>
+  <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/common" name="device/htc/common" />
   <project path="device/htc/passion" name="device/htc/passion" />
