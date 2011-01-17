@@ -118,6 +118,7 @@
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
+  <project path="hardware/qcom/gpsshim" name="ezterry/GB-hardware_qcom_gpsshim" remote="gh" revision="gingerbread" />
   <project path="hardware/qcom/media" name="ezterry/GB-hardware_qcom_media" remote="gh" revision="gingerbread" />
   <!-- project path="hardware/qcom/media" name="platform/hardware/qcom/media" / -->
   <project path="hardware/ril" name="platform/hardware/ril" />
