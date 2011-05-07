@@ -97,7 +97,7 @@
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/stlport" name="platform/external/stlport" />
   <project path="external/strace" name="platform/external/strace" />
-  <project path="external/superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="gh" revision="gingerbread" />
+  <project path="external/superuser" name="ezterry/GB-android_packages_apps_Superuser" remote="gh" revision="gingerbread" />
   <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
