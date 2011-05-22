@@ -16,7 +16,7 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="ezterry/GB-platform_dalvik" remote="gh" revision="gingerbread" />
-  <project path="development" name="ezterry/GB-development.git" remote="gh" revision="gingerbread" />
+  <project path="development" name="ezterry/GB-development" remote="gh" revision="gingerbread" />
   <project path="device/common" name="device/common" />
   <project path="device/htc/common" name="device/htc/common" />
 
