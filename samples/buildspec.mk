@@ -17,3 +17,6 @@
 # EzGb Mod def
 # ROMMANAGER_MOD_ID:=test-YYMMDD-I
 # ROMMANAGER_DEVELOPER_ID:=iHaveName
+
+#language pack
+#EZGB_ALT_LANGPACK1:=true
