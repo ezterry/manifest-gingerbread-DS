@@ -34,7 +34,7 @@
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision="gingerbread" />
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="gh" revision="258ba0cc3b2fb2be15c79ecafc8786de85a9fd85" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/chromium" name="platform/external/chromium" />
   <project path="external/clearsilver" name="ezterry/GB-external_clearsilver" remote="gh" revision="gingerbread" />
