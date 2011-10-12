@@ -143,7 +143,7 @@
   <project path="packages/apps/Gallery3D" name="ezterry/GB-packages_apps_Gallery3D" remote="gh" revision="gingerbread" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
+  <project path="packages/apps/Mms" name="ezterry/GB-packages_apps_Mms" remote="gh" revision="gingerbread" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
