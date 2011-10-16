@@ -20,3 +20,6 @@
 
 #language pack
 #EZGB_ALT_LANGPACK1:=true
+
+#Packed ota image (build xbin.sqf and xlib.sqf)
+BUILD_TARGET_PACKED_OTA_IMAGE:=true
