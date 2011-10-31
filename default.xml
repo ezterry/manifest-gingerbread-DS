@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="korg"
-           fetch="http://android-git.devnull.name/"
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com/"
            />
   <default revision="gingerbread"
-           remote="korg" />
+           remote="aosp" />
   <remote name="gh" fetch="git://github.com/" />
 
   <project path="build" name="ezterry/GB-build" remote="gh" revision="gingerbread" >
